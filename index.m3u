@@ -3,7 +3,7 @@
 #*--_--*Sự Kiện TV360*--_--*#
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="https://resources.sgchill.io.vn/images/tv/tv360/tv360plus1.png",TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/v1/xemtvtructuyen/coban/source/vstv521/2554index.m3u8
+https://ott1.sgchill.io.vn/v1/xemtvtructuyen/coban/source/vstv521/2554/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus2" group-title="Sự Kiện TV360" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="https://resources.sgchill.io.vn/images/tv/tv360/tv360plus2.png",TV360+2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/v1/xemtvtructuyen/coban/source/vstv521/1/index.m3u8
