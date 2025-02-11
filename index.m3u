@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
+Luôn cập nhật những kênh ổn định
+Vui lòng sử dụng ứng dụng TiviMate & OTT Nagavitor để có trải nghiệm tốt
+Nhóm Zalo: https://zalo.me/g/zpkesl609
+
 #*--_--*Sự Kiện TV360*--_--*#
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="https://resources.sgchill.io.vn/images/tv/tv360/tv360plus1.png",TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
