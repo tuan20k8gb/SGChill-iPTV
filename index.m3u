@@ -240,6 +240,49 @@ https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/169/index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="#| Kênh K+" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vstv/kplus_kids.png",K+KIDS
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/index.m3u8
+#*--_--#| Kênh HTV/C*--_--*#
+#EXTINF:-1 tvg-id="htv1" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv1.png",HTV1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv1/index.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv2.png",HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv2/index.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv3.png",HTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv3/index.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv4.png",HTV Keys
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv4/index.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv7.png",HTV7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv7/index.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv9.png",HTV9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv9/index.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvthethao.png",HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/195/index.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvccanhac.png",HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvccanhac/index.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcdulich.png",HTVC Du Lịch
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcdulich/index.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcgiadinh.png",HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcgiadinh/index.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcphim.png",HTVC Phim
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcphim/index.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcphunu.png",HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcphunu/index.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcthuanviet.png",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcthuanviet/index.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcplus.png",HTVC Plus
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcplus/index.m3u8
 #*--_--*#| Kênh SCTV*--_--*#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv1.png",SCTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
