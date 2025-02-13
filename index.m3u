@@ -236,6 +236,10 @@ https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/188/index.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab23.png",ON Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/169/index.m3u8
+#*--_--*#| Kênh K+*--_--*#
+#EXTINF:-1 tvg-id="kkidshd" group-title="#| Kênh K+" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vstv/kplus_kids.png",K+KIDS
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/index.m3u8
 #*--_--*#| Kênh SCTV*--_--*#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv1.png",SCTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
